@@ -1,0 +1,9 @@
+{
+  "name": "suzy-says-guide",
+  "compatibility_date": "2026-11-16",
+  "assets": {
+    "directory": ".",
+    "html_handling": "force-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

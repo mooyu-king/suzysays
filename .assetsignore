@@ -1,0 +1,17 @@
+.git/**
+.git*
+.github/**
+.wrangler/**
+*.log
+README*
+wrangler.jsonc
+.assetsignore
+*.map
+HANDOFF.md
+AGENTS.md
+PRD.md
+docs/**
+scripts/**
+node_modules/**
+package*.json
+.env*
